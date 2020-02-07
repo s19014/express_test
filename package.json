@@ -12,5 +12,13 @@
   "license": "ISC",
   "devDependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s19014/express_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/s19014/express_test/issues"
+  },
+  "homepage": "https://github.com/s19014/express_test#readme"
 }
