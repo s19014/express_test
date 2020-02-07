@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/s19014/express_test/issues"
   },
-  "homepage": "https://github.com/s19014/express_test#readme"
+  "homepage": "https://github.com/s19014/express_test#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
 }
