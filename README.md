@@ -8,3 +8,4 @@
     - src/dice-q.js(p280)
     - src/post-show.js(p282)
     - src/post-test.js(p282)
+    - src/post-upload.js(p283)
